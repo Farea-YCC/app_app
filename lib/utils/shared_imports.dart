@@ -1,0 +1,17 @@
+// export 'package:learning/main.dart';
+// export 'package:flutter/material.dart';
+// export 'package:provider/provider.dart';
+// export 'package:learning/providers/course_provider.dart';
+// export 'package:learning/providers/education_provider.dart';
+// export 'package:learning/providers/experience_provider.dart';
+// export 'package:learning/providers/language_provider.dart';
+// export 'package:learning/providers/skill_provider.dart';
+// export 'package:learning/home_screen.dart';
+// export 'package:learning/models/skill.dart';
+// export 'package:learning/models/experience.dart';
+// export 'package:learning/models/language.dart';
+// export 'package:learning/models/education.dart';
+// export 'package:learning/models/course.dart';
+// export 'package:learning/widgets/add_course_dialog.dart';
+// export 'dart:io';
+// export 'package:learning/providers/PersonalInfoProvider.dart';
